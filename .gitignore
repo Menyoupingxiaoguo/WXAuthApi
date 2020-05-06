@@ -1,0 +1,9 @@
+/WXAuthApi/WXAuthApi/bin
+/WXAuthApi/WXAuthApi/obj
+/WXAuthApi/WXAuthApi/Properties
+/WXAuthApi/WXAuthApi/App_Data
+/WXAuthApi/WXAuthApi/Web.Debug.config
+/WXAuthApi/WXAuthApi/Web.Release.config
+/WXAuthApi/WXAuthApi/WXAuthApi.csproj.user
+/WXAuthApi/WXAuthApi.v12.suo
+/WXAuthApi/WXAuthApi/packages.config
